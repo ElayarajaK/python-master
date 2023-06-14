@@ -19,7 +19,12 @@ elif(Marks>75 and Marks <90):
 elif(Marks >90 and Marks <100):
     printData="S Grade"
 else:
-    printData="Over Gradiations"
+    if():
+       print()
+    elif():
+        print()
+
+printData="Over Gradiations"
 
 
 
