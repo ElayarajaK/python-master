@@ -1,3 +1,5 @@
+
+
 id = input("Enter the id")
 def result(m1,m2,m3):
     if m1>40 and m2 >40 and m3 >40:
